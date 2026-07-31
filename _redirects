@@ -1,0 +1,4 @@
+# Netlify redirects — single-page fallback
+# All unknown paths fall back to index.html so the VBC script can fire
+# on any URL Googlebot might request.
+/*    /index.html   200
