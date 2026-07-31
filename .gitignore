@@ -1,0 +1,16 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Node (if user later adds a build step)
+node_modules/
+.env
+.env.local
+
+# Netlify
+.netlify/
